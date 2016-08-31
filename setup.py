@@ -16,7 +16,7 @@ other_classifiers = [
         'License :: OSI Approved :: Python Software Foundation License',
     ]
 
-readme_file = open('README', 'r')
+readme_file = open('README.rst', 'r')
 try:
     detailed_description = readme_file.read()
 finally:
