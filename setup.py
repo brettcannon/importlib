@@ -25,7 +25,7 @@ finally:
 
 setup(
         name='importlib',
-        version='1.0.3',
+        version='1.0.4',
         description='Backport of importlib.import_module() from Python 2.7',
         long_description=detailed_description,
         author='Brett Cannon',
