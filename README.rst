@@ -1,7 +1,9 @@
 Purpose
 ========
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+.. image:: http://unmaintained.tech/badge.svg
+   :target: http://unmaintained.tech/
+   :alt: No Maintenance Intended
 
 This package contains the code from importlib as found in Python 2.7. It is
 provided so that people who wish to use ``importlib.import_module()`` with a
